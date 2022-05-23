@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-       // NumeroReverso.numeroReverso();
+        // NumeroReverso.numeroReverso();
 
         /*
         Macaco macaco1 = new Macaco();
@@ -25,10 +25,13 @@ public class Main {
 
          */
 
-        Vendedor vendedor = new Vendedor("Felipe Debiazi", 78945612310L, 500,10);
+        /*
+        Vendedor vendedor = new Vendedor("Felipe Debiazi", 78945612310L, 500, 10);
         System.out.println(vendedor.calcularSalario());
 
-        Consultor consultor = new Consultor("Charles Bronw",36985214714L,25, 10);
+        Consultor consultor = new Consultor("Charles Bronw", 36985214714L, 25, 10);
         System.out.println(consultor.calcularSalario());
+
+         */
     }
 }

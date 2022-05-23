@@ -10,8 +10,8 @@ public class Macaco {
     private List<String> bucho = new ArrayList<>();
 
     //metodos
-    public void comer(String comida){
-        if (bucho.size() == 3){
+    public void comer(String comida) {
+        if (bucho.size() == 3) {
             System.out.println("Bucho Cheio!");
 
         } else {
@@ -21,8 +21,8 @@ public class Macaco {
 
     }
 
-    public  void digerir(){
-        if (bucho.isEmpty()){
+    public void digerir() {
+        if (bucho.isEmpty()) {
             System.out.println("Bucho Vazio!");
         } else {
             bucho.remove(bucho.get(0));
