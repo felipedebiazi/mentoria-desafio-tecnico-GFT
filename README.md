@@ -1,6 +1,7 @@
 # Mentoria Desafio Tecnico GTF
 GTF Starter JAVA
  
-## Dois exemplos utilizando os conceitos de Orientação a Objetos
-- Alimentando um Macaco
+## Resolvendo 3 exercicios tecnicos da GTF curso Starter JAVA
+- Alimentando um Macaco;
+- Numero Reverso;
 - 
