@@ -4,4 +4,4 @@ GTF Starter JAVA
 ## Resolvendo 3 exercicios tecnicos da GTF curso Starter JAVA
 - Numero Reverso;
 - Alimentando um Macaco;
-- Salario Funcionario / Comição Vendedor;
+- Salario Funcionario / Comissão Vendedor;
