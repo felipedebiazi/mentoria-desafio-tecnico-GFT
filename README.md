@@ -1,5 +1,5 @@
-# Mentoria Desafio Tecnico GTF
-GTF Starter JAVA
+# Mentoria Desafio Tecnico GFT
+GFT Starter JAVA
  
 ## Resolvendo 3 exercicios tecnico do curso Starter JAVA
 - Numero Reverso;
